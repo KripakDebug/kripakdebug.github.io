@@ -406,17 +406,17 @@ html {
   animation: css 2s;
 }
 
-.FLEXBOX {
+.js {
   width: 70%;
   animation: css 2s;
 }
 
-.responsiveadaptive {
+.sass {
   width: 55%;
   animation: css 2s;
 }
 
-.AnimationCSSSVG {
+.pug {
   width: 45%;
   animation: css 2s;
 }
@@ -425,35 +425,35 @@ html {
   width: 0%;
 }
 [data-aos=html].aos-animate {
-  width: 60%;
-}
-
-[data-aos=FLEXBOX] {
-  width: 0%;
-}
-[data-aos=FLEXBOX].aos-animate {
   width: 70%;
 }
 
-[data-aos=responsiveadaptive] {
+[data-aos=js] {
   width: 0%;
 }
-[data-aos=responsiveadaptive].aos-animate {
-  width: 55%;
+[data-aos=js].aos-animate {
+  width: 50%;
 }
 
-[data-aos=AnimationCSSSVG] {
+[data-aos=sass] {
   width: 0%;
 }
-[data-aos=AnimationCSSSVG].aos-animate {
-  width: 45%;
+[data-aos=sass].aos-animate {
+  width: 95%;
+}
+
+[data-aos=pug] {
+  width: 0%;
+}
+[data-aos=pug].aos-animate {
+  width: 85%;
 }
 
 [data-aos=css] {
   width: 0%;
 }
 [data-aos=css].aos-animate {
-  width: 50%;
+  width: 80%;
 }
 
 .footer {
@@ -1003,7 +1003,7 @@ html {
   }
 
   .header__title {
-    font-size: 47px;
+    font-size: 45px;
   }
 
   .section__blocktitle {
