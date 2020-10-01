@@ -565,7 +565,6 @@ html {
   .bar span {
     height: 10px;
     float: left;
-    background: red;
   }
 
   .bar {
@@ -575,7 +574,6 @@ html {
     border: 1px solid rgba(0, 0, 0, 0.3);
     border-radius: 3px;
     overflow: hidden;
-    box-shadow: 0 0 10px red;
   }
 
   .section__arrow {
@@ -599,7 +597,6 @@ html {
   .bar span {
     height: 9px;
     float: left;
-    background: red;
   }
 
   .bar {
@@ -609,7 +606,6 @@ html {
     border: 1px solid rgba(0, 0, 0, 0.3);
     border-radius: 3px;
     overflow: hidden;
-    box-shadow: 0 0 10px red;
   }
 
   .section__img {
@@ -806,7 +802,6 @@ html {
   .bar span {
     height: 8px;
     float: left;
-    background: red;
   }
 
   .bar {
@@ -816,7 +811,6 @@ html {
     border: 1px solid rgba(0, 0, 0, 0.3);
     border-radius: 3px;
     overflow: hidden;
-    box-shadow: 0 0 10px red;
   }
 
   .footer__subtext {
@@ -857,7 +851,6 @@ html {
   .bar span {
     height: 8px;
     float: left;
-    background: red;
   }
 
   .bar {
@@ -867,7 +860,6 @@ html {
     border: 1px solid rgba(0, 0, 0, 0.3);
     border-radius: 3px;
     overflow: hidden;
-    box-shadow: 0 0 10px red;
   }
 
   .footer__blockinfo {
@@ -989,7 +981,6 @@ html {
   .bar span {
     height: 8px;
     float: left;
-    background: red;
   }
 
   .bar {
@@ -999,7 +990,6 @@ html {
     border: 1px solid rgba(0, 0, 0, 0.3);
     border-radius: 3px;
     overflow: hidden;
-    box-shadow: 0 0 10px red;
   }
 
   .header__title {
